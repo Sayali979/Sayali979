@@ -36,20 +36,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 # 📂 Featured Projects
 
-### 📊 Digital Payments Adoption Across India
-Analyzed digital payment trends across India using SQL and Power BI to create interactive dashboards and business insights.
+### 📱 Instagram Usage & Lifestyle Impact Analysis
+- Analyzed Instagram usage patterns and their impact on lifestyle using Python, Pandas, NumPy and Matplotlib.
+- Performed data cleaning, exploratory data analysis (EDA) and created visualizations to identify trends and user behavior.
 
-### 📈 Sales Dashboard
-Built an interactive Power BI dashboard to track KPIs, sales performance, regional trends and business growth.
+**Tech Stack:** Python | Pandas | NumPy | Matplotlib | Jupyter Notebook
 
-### 🏥 Healthcare Patient Monitoring System
-Designed and managed a relational database using MySQL with ER diagrams, joins, constraints and analytical SQL queries.
+---
 
-### 💼 Resume to Portfolio Builder
-Developed a portfolio website using HTML, CSS, JavaScript and MongoDB for automatic portfolio generation.
+### ❤️ Heart Disease Prediction using Machine Learning
+- Built a Machine Learning model to predict the likelihood of heart disease using patient health data.
+- Performed data preprocessing, feature scaling, model training and evaluation using classification algorithms.
+
+**Tech Stack:** Python | Pandas | Scikit-learn | NumPy | Matplotlib
 
 ---
 
